@@ -206,7 +206,7 @@
 <section class="gallery-hero">
   <div class="container">
     <h1>Gallery</h1>
-    <p>Documentation of activities and special moments of PT Arka Teknologi Indonesia</p>
+    <p>PT Arka Teknologi Indonesia project documentation</p>
   </div>
 </section>
 
@@ -226,25 +226,25 @@
       <li class="nav-item" role="presentation">
         <button class="nav-link" id="tab-family" data-bs-toggle="tab"
                 data-bs-target="#pane-family" type="button" role="tab">
-          Family Gathering
+          Fire Alarm
         </button>
       </li>
       <li class="nav-item" role="presentation">
         <button class="nav-link" id="tab-ramadhan" data-bs-toggle="tab"
                 data-bs-target="#pane-ramadhan" type="button" role="tab">
-          Ramadhan
+          CCTV
         </button>
       </li>
       <li class="nav-item" role="presentation">
         <button class="nav-link" id="tab-adha" data-bs-toggle="tab"
                 data-bs-target="#pane-adha" type="button" role="tab">
-          Aid Al Adha
+          IT Infrastruktur
         </button>
       </li>
       <li class="nav-item" role="presentation">
         <button class="nav-link" id="tab-fitri" data-bs-toggle="tab"
                 data-bs-target="#pane-fitri" type="button" role="tab">
-          Aid Al Fitri
+          Public Address
         </button>
       </li>
     </ul>
@@ -270,67 +270,47 @@
           <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(5, 'all')"><img src="https://placehold.co/400x400/bcc6dc/0b1638?text=Gallery+6" alt="Gallery 6"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
           <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(6, 'all')"><img src="https://placehold.co/400x400/c5cee0/0b1638?text=Gallery+7" alt="Gallery 7"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
           <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(7, 'all')"><img src="https://placehold.co/400x400/bcc6dc/0b1638?text=Gallery+8" alt="Gallery 8"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(8, 'all')"><img src="https://placehold.co/400x400/c5cee0/0b1638?text=Gallery+9" alt="Gallery 9"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          
         </div>
       </div>
 
-      <!-- ── TAB 2: Family Gathering ── -->
+      <!-- ── TAB 2: Fire Alarm ── -->
       <div class="tab-pane fade" id="pane-family" role="tabpanel">
         <div class="row g-3 gallery-grid">
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="https://placehold.co/400x400/d4c8e8/1a0b38?text=Family+1" alt="Family 1"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(1, 'family')"><img src="https://placehold.co/400x400/c8bce0/1a0b38?text=Family+2" alt="Family 2"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(2, 'family')"><img src="https://placehold.co/400x400/d4c8e8/1a0b38?text=Family+3" alt="Family 3"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(3, 'family')"><img src="https://placehold.co/400x400/c8bce0/1a0b38?text=Family+4" alt="Family 4"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(4, 'family')"><img src="https://placehold.co/400x400/d4c8e8/1a0b38?text=Family+5" alt="Family 5"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(5, 'family')"><img src="https://placehold.co/400x400/c8bce0/1a0b38?text=Family+6" alt="Family 6"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(6, 'family')"><img src="https://placehold.co/400x400/d4c8e8/1a0b38?text=Family+7" alt="Family 7"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(7, 'family')"><img src="https://placehold.co/400x400/c8bce0/1a0b38?text=Family+8" alt="Family 8"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(8, 'family')"><img src="https://placehold.co/400x400/d4c8e8/1a0b38?text=Family+9" alt="Family 9"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/fire alarm.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/fire alarm.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/fire alarm.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+         <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/fire alarm.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
         </div>
       </div>
 
-      <!-- ── TAB 3: Ramadhan ── -->
+      <!-- ── TAB 3: CCTV ── -->
       <div class="tab-pane fade" id="pane-ramadhan" role="tabpanel">
         <div class="row g-3 gallery-grid">
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'ramadhan')"><img src="https://placehold.co/400x400/c8e0cc/0b2e10?text=Ramadhan+1" alt="Ramadhan 1"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(1, 'ramadhan')"><img src="https://placehold.co/400x400/b8d4bc/0b2e10?text=Ramadhan+2" alt="Ramadhan 2"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(2, 'ramadhan')"><img src="https://placehold.co/400x400/c8e0cc/0b2e10?text=Ramadhan+3" alt="Ramadhan 3"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(3, 'ramadhan')"><img src="https://placehold.co/400x400/b8d4bc/0b2e10?text=Ramadhan+4" alt="Ramadhan 4"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(4, 'ramadhan')"><img src="https://placehold.co/400x400/c8e0cc/0b2e10?text=Ramadhan+5" alt="Ramadhan 5"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(5, 'ramadhan')"><img src="https://placehold.co/400x400/b8d4bc/0b2e10?text=Ramadhan+6" alt="Ramadhan 6"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(6, 'ramadhan')"><img src="https://placehold.co/400x400/c8e0cc/0b2e10?text=Ramadhan+7" alt="Ramadhan 7"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(7, 'ramadhan')"><img src="https://placehold.co/400x400/b8d4bc/0b2e10?text=Ramadhan+8" alt="Ramadhan 8"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(8, 'ramadhan')"><img src="https://placehold.co/400x400/c8e0cc/0b2e10?text=Ramadhan+9" alt="Ramadhan 9"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+         <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/cctv.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/cctv.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/cctv.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+         <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/cctv.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
         </div>
       </div>
 
       <!-- ── TAB 4: Aid Al Adha ── -->
       <div class="tab-pane fade" id="pane-adha" role="tabpanel">
         <div class="row g-3 gallery-grid">
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'adha')"><img src="https://placehold.co/400x400/e0d4c0/2e1e0b?text=Adha+1" alt="Adha 1"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(1, 'adha')"><img src="https://placehold.co/400x400/d4c8b0/2e1e0b?text=Adha+2" alt="Adha 2"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(2, 'adha')"><img src="https://placehold.co/400x400/e0d4c0/2e1e0b?text=Adha+3" alt="Adha 3"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(3, 'adha')"><img src="https://placehold.co/400x400/d4c8b0/2e1e0b?text=Adha+4" alt="Adha 4"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(4, 'adha')"><img src="https://placehold.co/400x400/e0d4c0/2e1e0b?text=Adha+5" alt="Adha 5"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(5, 'adha')"><img src="https://placehold.co/400x400/d4c8b0/2e1e0b?text=Adha+6" alt="Adha 6"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(6, 'adha')"><img src="https://placehold.co/400x400/e0d4c0/2e1e0b?text=Adha+7" alt="Adha 7"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(7, 'adha')"><img src="https://placehold.co/400x400/d4c8b0/2e1e0b?text=Adha+8" alt="Adha 8"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(8, 'adha')"><img src="https://placehold.co/400x400/e0d4c0/2e1e0b?text=Adha+9" alt="Adha 9"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+         <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/IT.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/IT.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/IT.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+         <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/IT.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
         </div>
       </div>
 
       <!-- ── TAB 5: Aid Al Fitri ── -->
       <div class="tab-pane fade" id="pane-fitri" role="tabpanel">
         <div class="row g-3 gallery-grid">
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'fitri')"><img src="https://placehold.co/400x400/e0c8c8/2e0b0b?text=Fitri+1" alt="Fitri 1"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(1, 'fitri')"><img src="https://placehold.co/400x400/d4bcbc/2e0b0b?text=Fitri+2" alt="Fitri 2"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(2, 'fitri')"><img src="https://placehold.co/400x400/e0c8c8/2e0b0b?text=Fitri+3" alt="Fitri 3"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(3, 'fitri')"><img src="https://placehold.co/400x400/d4bcbc/2e0b0b?text=Fitri+4" alt="Fitri 4"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(4, 'fitri')"><img src="https://placehold.co/400x400/e0c8c8/2e0b0b?text=Fitri+5" alt="Fitri 5"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(5, 'fitri')"><img src="https://placehold.co/400x400/d4bcbc/2e0b0b?text=Fitri+6" alt="Fitri 6"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(6, 'fitri')"><img src="https://placehold.co/400x400/e0c8c8/2e0b0b?text=Fitri+7" alt="Fitri 7"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(7, 'fitri')"><img src="https://placehold.co/400x400/d4bcbc/2e0b0b?text=Fitri+8" alt="Fitri 8"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
-          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(8, 'fitri')"><img src="https://placehold.co/400x400/e0c8c8/2e0b0b?text=Fitri+9" alt="Fitri 9"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/public addres.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/public addres.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+          <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/public addres.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
+         <div class="col-6 col-md-4 col-lg-3"><div class="g-item" onclick="openLightbox(0, 'family')"><img src="{{ asset('images/public addres.jpg') }}" alt="alarm"/><div class="g-item-overlay"><i class="bi bi-zoom-in"></i></div></div></div>
         </div>
       </div>
 
@@ -384,7 +364,7 @@
         <p style="color:#fff;font-weight:700;margin-bottom:8px;font-size:.85rem;">Kategori Gallery</p>
         <ul class="list-unstyled" style="line-height:2.1;">
           <li><a href="#" onclick="switchTab('tab-all')">Gallery</a></li>
-          <li><a href="#" onclick="switchTab('tab-family')">Family Gathering</a></li>
+          <li><a href="#" onclick="switchTab('tab-family')">Fire Alarm</a></li>
           <li><a href="#" onclick="switchTab('tab-ramadhan')">Ramadhan</a></li>
           <li><a href="#" onclick="switchTab('tab-adha')">Aid Al Adha</a></li>
           <li><a href="#" onclick="switchTab('tab-fitri')">Aid Al Fitri</a></li>

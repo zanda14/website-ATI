@@ -1,6 +1,6 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
+
 
 
 // Route::get('/', fn() => view('home'));
@@ -21,4 +21,11 @@ Route::view('/product-conference', 'product-conference');
 
 Route::view('/review', 'review');
 Route::view('/knowledge', 'knowledge');
+
+
+use App\Http\Controllers\ReviewController;
+
+Route::get('/review', [ReviewController::class, 'index'])->name('review');
+Route::post('/review', [ReviewController::class, 'store'])->name('review.store');
+
 
